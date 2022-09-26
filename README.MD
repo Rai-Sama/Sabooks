@@ -1,5 +1,5 @@
-Semester 4 project for Web Design Lab course work.
+* I made this website as a mini project for the course "Web Design Lab" in semester 4 of B.E.
 
-A simple study portal for students (School students and Undergraduates preparing for Higher studies).
+* It is a simple study portal for students (School students and Undergraduates preparing for Higher studies).
 
-The website was built for the purpose of understanding Web Designing concepts using HTML, CSS and JavaScript and is not dynamic.
+* The website was built for the purpose of understanding web designing concepts using HTML, CSS and JavaScript and is interactive but not dynamic.
